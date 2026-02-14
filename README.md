@@ -3,9 +3,18 @@
 
 ---
 
-Heya!👋 I'm a junior data scientist and engineer passionate by the world of **data**, **machine learning**, and **AI**. I love coding models fueled by curiosity and continuous learning.
+Data Science & AI Enthusiast | Technical Team Lead | passionate by the world of **data**, **machine learning**, and **AI**. i design scalable ML systems and real-world AI applications.  
+Focused on system architecture and mentoring engineers through project-based learning.
 
 Building, experimenting, and solving with data — one step at a time :D
+
+---
+## 🚀 Technical Vision
+
+- Build structured learning tracks (Python → ML → AI → Deployment)
+- Encourage real-world project-based learning
+- Emphasize documentation and clean architecture
+- Promote open-source collaboration
 
 ---
 ### 📫 Feel free to Contact Me:
@@ -35,7 +44,8 @@ Building, experimenting, and solving with data — one step at a time :D
 
 
 ---
-### ⚡ Fun facts!
-  -  *i used arch btw*
+### Fun facts!
+  -  ⚡ Linux power user | Automation lover
+
 ---
 
