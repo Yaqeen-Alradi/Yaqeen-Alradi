@@ -44,8 +44,8 @@ Building, experimenting, and solving with data — one step at a time :D
 
 
 ---
-### Fun facts!
-  -  ⚡ Linux power user | Automation lover
+### ⚡Fun facts!
+  -   Linux power user | Automation lover
 
 ---
 
